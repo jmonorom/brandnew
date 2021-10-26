@@ -1,0 +1,35 @@
+body {
+    background-color:rgb(113, 109, 117); 
+}
+header {
+    background-color:skyblue(20,30,13, .7);
+}
+nav a:hover {
+    background-color: red;
+}
+                   
+      div {
+        height: 200px;
+        width: 50%;
+        background-color: powderblue;
+      }      
+      
+#background {
+    height: 725px;
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+        
+.icon {
+    width: 80px;
+}
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+
+
